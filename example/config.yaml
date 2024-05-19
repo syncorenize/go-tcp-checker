@@ -1,0 +1,6 @@
+services:
+  - address: "google.com:80"
+timeout: 5 # Timeout in seconds
+concurrencyLevel: 5 # Max number of concurrent checks
+outputFormat: "json" # Supported values: "text", "json"
+outputPath: "out.json"
