@@ -21,7 +21,7 @@ Go TCP Checker is a lightweight, concurrent TCP connection tester written in Go,
 
 ```sh
 git clone https://github.com/syncorenize/go-tcp-checker.git
-cd go-tcp-checker
+cd go-tcp-checker/cmd/
 ```
 
 2. Build the project:
